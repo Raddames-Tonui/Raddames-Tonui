@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![SimplyProgger's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=Raddames-Tonui)](https://enigmatic-harbor-42642.herokuapp.com/?name=SimplyProgger)
 <!--
 **Raddames-Tonui/Raddames-Tonui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
