@@ -1,9 +1,6 @@
 <h1 align="left">Hi 👋, I'm Raddames-Tonui</h1>
 
 <h3 align="left">Connect with me:</h3>
-
-![snake gif](https://github.com/Raddames-Tonui/Raddames-Tonui/blob/output/snake.svg)
-
 <p align="left">
 <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="yourprofile" height="30" width="40" /></a>
 <a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="yourprofile" height="30" width="40" /></a>
