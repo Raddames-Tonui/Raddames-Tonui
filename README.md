@@ -2,9 +2,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="mailto:youremail@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="youremail" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raddames-tonui-01a751277/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="yourprofile" height="30" width="40" /></a>
+<a href="[https://twitter.com/yourprofile](https://twitter.com/Mzee_Telee)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="yourprofile" height="30" width="40" /></a>
+<a href="mailto:raddamestonui95@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="youremail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,7 +46,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Raddames-Tonui's GitHub stats"/>
+<img src="https://github.com/Raddames-Tonui" alt="Raddames-Tonui's GitHub stats"/>
 </p>
 
 <h3 align="left">Top Projects:</h3>
