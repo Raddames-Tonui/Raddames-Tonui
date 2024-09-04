@@ -45,7 +45,7 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Raddames-Tonui&show_icons=true&theme=radical" alt="Raddames-Tonui's GitHub stats"/>
 </p>
 
