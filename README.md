@@ -2,9 +2,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="yourprofile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raddames-tonui-01a751277" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="https://www.linkedin.com/in/raddames-tonui-01a751277" height="30" width="40" /></a>
 <a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="mailto:youremail@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="youremail" height="30" width="40" /></a>
+<a href="mailto:raddamestonui95@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="raddamestonui95@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,35 +45,17 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Raddames-Tonui&show_icons=true&theme=radical" alt="Raddames-Tonui's GitHub stats"/>
 </p>
 
 <h3 align="left">Top Projects:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/Raddames-Tonui/awesome-project">Awesome Project</a>: A brief description of what this project does and why it's awesome.<br>
 <a href="https://github.com/Raddames-Tonui/cool-project">Cool Project</a>: A brief description of what this project does and why it's cool.<br>
 <a href="https://github.com/Raddames-Tonui/interesting-project">Interesting Project</a>: A brief description of what this project does and why it's interesting.<br>
-</p>
+</p> -->
 
-<h3 align="left">Contribution Snake Game</h3>
-<p align="left">
-![snake gif](https://github.com/Raddames-Tonui/Raddames-Tonui/blob/output/snake.svg)
-</p>
-
-<h3 align="left">Current Learning:</h3>
-<p align="left">
-- [ ] Technology or Course 1<br>
-- [ ] Technology or Course 2<br>
-- [ ] Technology or Course 3
-</p>
-
-<h3 align="left">Licenses & Certifications:</h3>
-<p align="left">
-- Certification 1<br>
-- Certification 2<br>
-- Certification 3
-</p>
 
 <h3 align="left">Support:</h3>
 <p align="left">
