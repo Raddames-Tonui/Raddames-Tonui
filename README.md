@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Raddames-Tonui</h1>
+<h1 align="left">Hello Code Alien 👋</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
