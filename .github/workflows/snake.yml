@@ -1,0 +1,16 @@
+name: Snake
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user: Raddames-Tonui # Your GitHub username
+          gif_out: github-contribution-grid-snake.gif
