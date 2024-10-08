@@ -3,7 +3,7 @@ name: Snake
 on:
   push:
     branches:
-      - master
+      - main  # Use 'main' instead of 'master'
 
 jobs:
   update-snake:
@@ -12,5 +12,5 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@master
         with:
-          github_user: Raddames-Tonui # Your GitHub username
+          github_user: Raddames-Tonui
           gif_out: github-contribution-grid-snake.gif
