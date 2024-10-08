@@ -31,7 +31,8 @@
 
 
 ## 🐍 GitHub Contribution Snake
-![Snake Animation](https://raw.githubusercontent.com/Raddames-Tonui/Raddames-Tonui/master/github-contribution-grid-snake.gif)
+![Snake Animation](https://raw.githubusercontent.com/Raddames-Tonui/Raddames-Tonui/main/github-contribution-grid-snake.gif)
+
 
 
 
