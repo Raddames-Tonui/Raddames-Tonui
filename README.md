@@ -3,7 +3,7 @@
 🔭 **Presently:**  
 🌱 **Currently learning:** DevOps  
 🤔 **Looking for help with:** DevOps  
-💬 **Ask me about:** Front-end or related topics  
+💬 **Ask me about:** React, python, flask and related stories  
 📫 **How to reach me:** Through my social links below  
 <!-- ⚡ **Fun Fact:** Many leaders of major tech corporations were avid video game enthusiasts during their childhoods. -->
 
