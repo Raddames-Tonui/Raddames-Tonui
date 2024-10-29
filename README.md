@@ -30,9 +30,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Raddames-Tonui&show_icons=true&theme=radical)
 
 
-## 🐍 GitHub Contribution Snake
-![Snake Animation](https://raw.githubusercontent.com/Raddames-Tonui/Raddames-Tonui/main/github-contribution-grid-snake.gif)
-
 
 
 
