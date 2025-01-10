@@ -1,11 +1,12 @@
 # 💫 About Me:
 😄 **Pronouns:** He/His  
-🔭 **Presently:**  
-🌱 **Currently learning:** DevOps  
-🤔 **Looking for help with:** DevOps  
-💬 **Ask me about:** Full-stack web development, automation, building scalable applications, or optimizing workflows with DevOps.
- ⚡ **Fun Fact:** I once wrote a fully functioning web app in a weekend just to win a bet with my friend. 
- 📫 **How to reach me:** Through my social links below  
+🔭 **Currently working on:** Scaling full-stack applications and optimizing DevOps workflows.  
+🌱 **Currently learning:** Advanced DevOps practices and infrastructure automation.  
+🤔 **Seeking collaboration on:** DevOps automation, scaling apps, and enhancing CI/CD pipelines.  
+💬 **Ask me about:** Full-stack web development, DevOps best practices, building scalable applications, or how I once won a bet by coding a web app in 48 hours.  
+⚡ **Fun Fact:** I once wrote a fully functioning web app in a weekend just to win a bet with my friend – who’s now using it!  
+📫 **How to reach me:** Through my social links below  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/raddames-tonui-01a751277/)
