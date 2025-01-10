@@ -4,8 +4,8 @@
 🌱 **Currently learning:** DevOps  
 🤔 **Looking for help with:** DevOps  
 💬 **Ask me about:** Full-stack web development, automation, building scalable applications, or optimizing workflows with DevOps.
-⚡ **Fun Fact:** I once wrote a fully functioning web app in a weekend just to win a bet with my friend. 
-📫 **How to reach me:** Through my social links below  
+ ⚡ **Fun Fact:** I once wrote a fully functioning web app in a weekend just to win a bet with my friend. 
+ 📫 **How to reach me:** Through my social links below  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/raddames-tonui-01a751277/)
