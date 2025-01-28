@@ -9,18 +9,15 @@
 
 
 ## 🌐 Socials:
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/raddames-tonui-01a751277/)[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](https://raddamestonui.netlify.app/) -->
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/raddames-tonui-01a751277/)[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](https://raddamestonui.netlify.app/) 
 <!-- [![Medium](https://img.shields.io/badge/Medium-black)]() -->
 
 <a href="https://www.linkedin.com/in/raddames-tonui-01a751277/" target="_blank">
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn" />
 </a>
 <a href="https://raddamestonui.netlify.app/" target="_blank">
-  ![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)
+  <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge" alt="Portfolio" />
 </a>
-
-
-
 
 
 ## 🌍 Technologies & Interests:
