@@ -3,13 +3,11 @@
 🔭 **Currently working on:** Scaling full-stack applications and optimizing DevOps workflows.  
 🌱 **Currently learning:** Advanced DevOps practices and infrastructure automation.  
 🤔 **Seeking collaboration on:** DevOps automation, scaling apps, and enhancing CI/CD pipelines.  
-💬 **Ask me about:** Full-stack web development, DevOps best practices, building scalable applications.
-
+💬 **Ask me about:** Full-stack web development, DevOps best practices, building scalable applications. </br>
 ⚡ **Fun Fact:** I once wrote a fully functioning web app in a weekend just to win a bet with my friend – who’s now using it!  
 📫 **How to reach me:** Through my social links below  
 
 
-## 🌐 Socials:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/raddames-tonui-01a751277/)[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](https://raddamestonui.netlify.app/)
 
