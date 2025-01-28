@@ -4,6 +4,8 @@
 🌱 **Currently learning:** Advanced DevOps practices and infrastructure automation.  
 🤔 **Seeking collaboration on:** DevOps automation, scaling apps, and enhancing CI/CD pipelines.  
 💬 **Ask me about:** Full-stack web development, DevOps best practices, building scalable applications.
+
+
 ⚡ **Fun Fact:** I once wrote a fully functioning web app in a weekend just to win a bet with my friend – who’s now using it!  
 📫 **How to reach me:** Through my social links below  
 
