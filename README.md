@@ -3,7 +3,8 @@
 🔭 **Currently working on:** Scaling full-stack applications and optimizing DevOps workflows.  
 🌱 **Currently learning:** Advanced DevOps practices and infrastructure automation.  
 🤔 **Seeking collaboration on:** DevOps automation, scaling apps, and enhancing CI/CD pipelines.  
-💬 **Ask me about:** Full-stack web development, DevOps best practices, building scalable applications.[!]
+💬 **Ask me about:** Full-stack web development, DevOps best practices, building scalable applications.
+
 ⚡ **Fun Fact:** I once wrote a fully functioning web app in a weekend just to win a bet with my friend – who’s now using it!  
 📫 **How to reach me:** Through my social links below  
 
@@ -11,7 +12,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/raddames-tonui-01a751277/)
 <!-- [![Medium](https://img.shields.io/badge/Medium-black)]() -->
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-orange)]() -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange)](https://raddamestonui.netlify.app/)
 
 ## 🌍 Technologies & Interests
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
