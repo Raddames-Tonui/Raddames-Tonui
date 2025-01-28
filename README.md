@@ -12,13 +12,6 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/raddames-tonui-01a751277/)[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](https://raddamestonui.netlify.app/) 
 <!-- [![Medium](https://img.shields.io/badge/Medium-black)]() -->
 
-<a href="https://www.linkedin.com/in/raddames-tonui-01a751277/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn" />
-</a>
-<a href="https://raddamestonui.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge" alt="Portfolio" />
-</a>
-
 
 ## 🌍 Technologies & Interests:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
