@@ -9,6 +9,13 @@
 
 
 ## 🌐 Connect With Me:
+<a href="https://www.linkedin.com/in/raddames-tonui-01a751277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn">
+</a>
+<a href="https://raddamestonui.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge" alt="Portfolio">
+</a>
+
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/raddames-tonui-01a751277/)[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](https://raddamestonui.netlify.app/) 
 <!-- [![Medium](https://img.shields.io/badge/Medium-black)]() -->
 
